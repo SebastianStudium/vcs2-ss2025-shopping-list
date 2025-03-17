@@ -6,3 +6,4 @@ leberkaese
 chips
 wurst
 kaese
+tomaten
