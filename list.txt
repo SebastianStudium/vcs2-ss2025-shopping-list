@@ -2,6 +2,7 @@ eis
 toast
 baguette
 semmel
+kuchen
 aepfel
 birnen
 bananen
