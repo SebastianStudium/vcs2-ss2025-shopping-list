@@ -20,3 +20,5 @@ salat
 brot
 sprite
 cola
+vodka
+
