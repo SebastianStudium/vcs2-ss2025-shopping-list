@@ -19,3 +19,4 @@ paprika
 salat
 brot
 sprite
+cola
